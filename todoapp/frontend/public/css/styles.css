@@ -1,0 +1,39 @@
+html {
+    box-sizing: border-box !important;
+    height: 100% !important; 
+    font-size: 62.5% !important; 
+}
+
+.h100-vh {
+    height: 100vh;
+}
+
+.fnt-bebas {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.fnt-hind {
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.fnt-montserrat-alternates {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    text-decoration: none;
+}
+
+button,
+button:focus {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+}
